@@ -1,0 +1,13 @@
+﻿
+
+namespace Tarea_Programacion
+{
+    public class SuperPoder
+    {
+        public string Nombre { get; set; }
+        public string Descripcion { get; set; }
+        public int Nivel {  get; set; }
+
+
+    }
+}
